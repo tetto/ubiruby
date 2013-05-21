@@ -1,0 +1,4 @@
+ubiruby
+=======
+
+Ubuntu/Ruby training
