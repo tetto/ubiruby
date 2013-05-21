@@ -1,1 +1,1 @@
-puts "Hello world!"
+5.times {puts "Hello world!"}
